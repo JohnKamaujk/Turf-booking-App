@@ -2,7 +2,7 @@
 ## ByJohn Kamau
 
 ## Screenshot
- ![image](./turfzone-client/src/assets/images/turfs.png)
+ ![image](./turfbooking-client/src/assets/images/turfs.png)
 
  ## Table of Content
  - [Description](#description)
