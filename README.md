@@ -56,7 +56,7 @@ Figma Design -[TurfZone-Web-app](https://www.figma.com/file/BGJQUi8O4Hcrzglhx2M3
 * REACT - which was used to develope the structure off the pages.
 * TAILWINDCSS - which was used to style the User Interface.
 * RAILS API WITH ACTIVE ADMIN - which was used to create an api as well manage admin and users on the application.
-* HEROKU & VERCEL - which was used to deploy the project. Heroku for backend and vercel for frontend.
+* HEROKU & RAILWAY - which was used to deploy the project. Heroku for backend and vercel for frontend.
 [Go Back to the top](#TurfZone-Web-app)
 
 ## Known Bugs
