@@ -23,7 +23,7 @@
 ## Features
 1. As a user, I want to sign up as new user.
 2. As a user, I want to sign in.
-3. As a user, I want to view potential chatmates, all other users.
+3. As a user, I want to view.
 4. As a user, I want to book a turf at a particular time.
 
 
